@@ -1,2 +1,4 @@
 /venv
 /files
+.idea
+.pytest_cache
